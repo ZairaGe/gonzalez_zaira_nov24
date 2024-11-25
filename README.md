@@ -9,4 +9,4 @@
 4. Crear archivo .gitignore (Tuve que borrar porque escribí mal)
 5. Ignoramos archivos que pide : *.xsd y top_secret
 6. Crear rama secundaria llamada ZairaGonzalez
-7. Editar README
+7. Editar READMEForzar cambios
